@@ -125,7 +125,7 @@
 		// Slider.
 			var $sliders = $('.slider');
 			
-			if ($sliders.length > 0) {
+			if ($slide.length > 0) {
 				
 				$sliders.slidertron({
 					mode: 'fadeIn',
